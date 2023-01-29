@@ -9,4 +9,6 @@
 - UseStates
 - UseEffect
 
-
+## Explication 
+- Enter hexa color into the field to see how the color it's look like
+- Enter name's color into the field to see how the color it's look like
